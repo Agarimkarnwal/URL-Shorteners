@@ -1,0 +1,1 @@
+{ name:url-shortener,private:true,workspaces:[apps/*,packages/*]}
