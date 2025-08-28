@@ -136,3 +136,10 @@ MIT License - feel free to use this project for your own purposes!
 ## Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
+
+
+
+##images <img width="945" height="439" alt="image" src="https://github.com/user-attachments/assets/129e1812-ac7e-443a-bda4-5101c6a93be8" />
+<img width="946" height="410" alt="image" src="https://github.com/user-attachments/assets/f6fe1666-cda3-462d-adf4-9735007c7a72" />
+<img width="952" height="448" alt="image" src="https://github.com/user-attachments/assets/d3a2fca1-7bf2-485f-aa3d-2722d6decd98" />
+
